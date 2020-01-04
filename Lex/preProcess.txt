@@ -1,0 +1,1 @@
+while (flag = true) do a := 20 * 1.5 if a = 10 output b := 100 #

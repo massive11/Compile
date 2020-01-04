@@ -1,0 +1,14 @@
+#E                               (i)+i^i#
+#E'T                             (i)+i^i#
+#E'T'F                           (i)+i^i#
+#E'T')E(                         (i)+i^i#
+#E'T')E'T                         i)+i^i#
+#E'T')E'T'F                       i)+i^i#
+#E'T')E'T'i                       i)+i^i#
+#E'T')E'                           )+i^i#
+#E'T')                             )+i^i#
+#E'                                 +i^i#
+#E'T+                               +i^i#
+#E'T'F                               i^i#
+#E'T'i                               i^i#
+Fail3!

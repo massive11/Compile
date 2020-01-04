@@ -1,0 +1,16 @@
+#                              i*i+i^i+i#
+#i                              *i+i^i+i#
+#N*                              i+i^i+i#
+#N*i                              +i^i+i#
+#N*N+                              i^i+i#
+#N*N+i                              ^i+i#
+#N*N+N^                              i+i#
+#N*N+N^i                              +i#
+#N*N+N^N+                              i#
+#N*N+N^N+i                              #
+#N*N+N^N+N                              #
+( * ,  i ,  i , 100 )
+( ^ ,  i ,  i , 101 )
+( + ,  100 ,  101 , 102 )
+( + ,  102 ,  i , 103 )
+Success!

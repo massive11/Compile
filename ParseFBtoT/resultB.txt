@@ -1,0 +1,15 @@
+#                              i*i+(i^i)#
+#i                              *i+(i^i)#
+#N*                              i+(i^i)#
+#N*i                              +(i^i)#
+#N*N+                              (i^i)#
+#N*N+(                              i^i)#
+#N*N+(i                              ^i)#
+#N*N+(N^                              i)#
+#N*N+(N^i                              )#
+#N*N+(N^N)                              #
+#N+(N^N)                                #
+#N+(N)                                  #
+#N+N                                    #
+#N                                      #
+Success!
